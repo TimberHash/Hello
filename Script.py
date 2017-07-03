@@ -1,5 +1,3 @@
-x = 1
-if x == 1:
-    # indented four spaces
-    print("x is 1.")
-	print("this is just a message")
+a=5;
+if a > 0:
+   print("a est supérieur à 0.")
